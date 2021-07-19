@@ -1,0 +1,2 @@
+# rabbitmq
+springboot rabbitqmq demo
